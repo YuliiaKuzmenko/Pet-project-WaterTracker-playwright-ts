@@ -1,6 +1,11 @@
-# Delek Homes Automation Testing
+# Water Tracker Automation Testing
 
-This project utilizes Playwright with TypeScript to automate end-to-end testing for the Delek Homes website: [https://delekhomes.com/](https://delekhomes.com/). The goal is to ensure seamless user interactions and validate core functionalities.
+This project utilizes **Playwright** with **TypeScript** to automate end-to-end testing for the Water Tracker Frontend:  
+[https://nadiiapavliuchenko.github.io/WaterTrackerFrontend/](https://nadiiapavliuchenko.github.io/WaterTrackerFrontend/)
+
+The primary goal is to ensure seamless user interactions and validate core functionalities such as tracking daily water intake, updating hydration goals, and navigating through the application.
+
+---
 
 ## 🛠️ Prerequisites
 
@@ -10,11 +15,13 @@ Before running the tests, ensure you have the following installed:
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 - [Visual Studio Code](https://code.visualstudio.com/) (for the best development experience)
 
+---
+
 ## 📦 Installation
 
 1. Clone this repository:
-   - git clone https://github.com/your-username/delek-homes-automation.git
-   - cd delek-homes-automation
+   - git clone https://github.com/YuliiaKuzmenko/Pet-project-WaterTracker-playwright-ts.git
+   - cd WaterTracker/
 
 2. Install the required dependencies:
     - npm install
