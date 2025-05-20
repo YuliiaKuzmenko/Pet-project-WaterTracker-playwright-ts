@@ -2,6 +2,7 @@
 
 This project utilizes **Playwright** with **TypeScript** to automate end-to-end testing for the Water Tracker Frontend:  
 [https://nadiiapavliuchenko.github.io/WaterTrackerFrontend/](https://nadiiapavliuchenko.github.io/WaterTrackerFrontend/)
+API:[https://tracker-of-water-oqqk.onrender.com/api](https://tracker-of-water-oqqk.onrender.com/api)
 
 The primary goal is to ensure seamless user interactions and validate core functionalities such as tracking daily water intake, updating hydration goals, and navigating through the application.
 
